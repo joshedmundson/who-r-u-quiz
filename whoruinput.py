@@ -11,5 +11,7 @@ responses = data['Responses']
 
 df = pd.DataFrame(data)
 
-# In the responses matrix, each index contains a vector of length 39 which is a 
+# In the responses matrix, each index contains a vector of length 33 which contains
+# all the flattened vectors for each response
+
 print(df)
