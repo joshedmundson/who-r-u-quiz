@@ -1,0 +1,15 @@
+Mark	c	d	a	a	cd	d	b	d	c	a
+Jodie	c	c	a	a	bcd	a	a	c	c	b
+Rory	c	a	b	b	abcd	a	c	b	a	d
+Seth	c	b	a	b	d	d	d	d	c	a
+Renzo	d	c	c	a	b	b	b	c	a	c
+Owen	c	bd	a	a	ad	c	c	b	c	d
+Naomi	c	d	c	b	ac	d	d	a	c	d
+Aoife	c	a	c	a	cd	cd	b	c	a	b
+Esther	c	c	c	a	ad	a	d	b	a	d
+Capri	c	a	c	a	acd	d	d	d	b	d
+Ruby	f	d	b	b	b	d	b	c	b	a
+Rachel	e	a	a	a	cd	c	b	a	b	b
+Emily	c	a	a	a	bc	d	a	b	c	b
+Sarah	f	c	c	b	ad	a	d	b	c	d
+Abigail	c	b	b	a	ac	d	a	d	a	c
